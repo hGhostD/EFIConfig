@@ -1,5 +1,0 @@
-台式机适用机型：iMac、MacMini、MacPro、iMac Pro
-
-食用方法：
-1、将SSDT-EC-USBX-DESKTOP.aml放在EFI/OC/ACPI文件夹下，并在config中添加参数
-2、将USBMap.kext放在EFI/OC/KEXT文件夹下，并在config中添加参数
