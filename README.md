@@ -20,16 +20,20 @@
 ### 概览
 
 成功安装 12.1
+
 ![](https://github.com/hGhostD/MarkDownPhotos/blob/master/%E9%BB%91%E8%8B%B9%E6%9E%9C/Pasted%20image%2020211228001312.png?raw=true)
 
 #### Hackintool
 设备读取正常
+
 ![](https://github.com/hGhostD/MarkDownPhotos/blob/master/%E9%BB%91%E8%8B%B9%E6%9E%9C/Pasted%20image%2020211228001421.png?raw=true)
 
 驱动正常读取
+
 ![](https://github.com/hGhostD/MarkDownPhotos/blob/master/%E9%BB%91%E8%8B%B9%E6%9E%9C/Pasted%20image%2020211228001518.png?raw=true)
 
 独显核显也成功读取，支持硬件加速
+
 ![](https://github.com/hGhostD/MarkDownPhotos/blob/master/%E9%BB%91%E8%8B%B9%E6%9E%9C/Pasted%20image%2020211228001557.png?raw=true)
 
 USB 使用的是国光定制过的驱动，由于我和他使用的是同一品牌型号的主板，只是我的是无 WiFi 版本，所以我直接拿来使用了，经过测试，我前后背板的 USB 接口都能成功读取到，并且 Type-C 接口也可以正常工作。
@@ -58,13 +62,17 @@ macOS: 12.1
 #### Hackintool
 
 设备正常读取
+
 ![](https://github.com/hGhostD/MarkDownPhotos/blob/master/%E9%BB%91%E8%8B%B9%E6%9E%9C/Snipaste_2021-12-23_15-33-08.jpg?raw=true)
 
 CPU 相关参数读取正常
+
 ![](https://github.com/hGhostD/MarkDownPhotos/blob/master/%E9%BB%91%E8%8B%B9%E6%9E%9C/Snipaste_2021-12-23_15-50-23.jpg?raw=true)
 
 驱动正常读取
+
 ![驱动读取](https://github.com/hGhostD/MarkDownPhotos/blob/master/%E9%BB%91%E8%8B%B9%E6%9E%9C/Snipaste_2021-12-23_16-06-39.jpg?raw=true)
 
 独显核显也成功读取
+
 ![双硬解](https://github.com/hGhostD/MarkDownPhotos/blob/master/%E9%BB%91%E8%8B%B9%E6%9E%9C/Snipaste_2021-12-23_16-07-47.jpg?raw=true)
