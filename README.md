@@ -4,6 +4,8 @@
 
 ## 10700
 
+[安装记录](https://www.hghostd.top/2021/12/23/%E9%BB%91%E8%8B%B9%E6%9E%9C%20Monterey%20%E5%AE%89%E8%A3%85/#more)
+
 | 配置 | 型号 |
 | --- | --- | 
 | CPU | Intel I7 10700 |
@@ -43,6 +45,9 @@ USB 使用的是国光定制过的驱动，由于我和他使用的是同一品�
 
 ## 10500 
 参照 https://github.com/ansonliao/Asrock-B460m-ITX-AC-OC-EFI 进行修改。
+
+[10500 安装记录](https://www.hghostd.top/2021/12/22/%E9%BB%91%E8%8B%B9%E6%9E%9C%2010500%20OpenCore%20%E5%8D%87%E7%BA%A7/#more)
+
 
 配置列表如下
 | 配置 | 型号 |
